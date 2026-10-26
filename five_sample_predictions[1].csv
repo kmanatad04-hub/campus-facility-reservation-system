@@ -1,0 +1,6 @@
+Reservation_ID,Facility_Type,User_Category,Reservation_Purpose,Lead_Time_Days,Participants,Facility_Capacity,Duration_Hours,Reservation_Weekday,Start_Hour,Predicted_Outcome,Estimated_Not_Completed_Probability,Actual_Outcome
+RES-0001,Meeting Room,External User,Event,1.0,98.0,50.0,1.0,1.0,13.0,Completed,0.413,Not Completed
+RES-0002,Laboratory,Student Organization,Workshop,14.0,33.0,20.0,2.0,1.0,15.0,Completed,0.436,Completed
+RES-0003,Meeting Room,Student Organization,Training,14.0,51.0,30.0,4.0,6.0,9.0,Completed,0.456,Not Completed
+RES-0004,Meeting Room,Student Organization,Workshop,8.0,110.0,50.0,1.0,3.0,15.0,Not Completed,1.0,Completed
+RES-0005,Lecture Hall,Student,Class Activity,3.0,115.0,20.0,3.0,5.0,19.0,Not Completed,0.902,Not Completed
